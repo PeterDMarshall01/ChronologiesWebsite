@@ -1,8 +1,8 @@
 ---
 title: "Peter Marshall"
 subtitle: "Archaeological Scientist"
-# `profile.jpg` photo by Oak House
-image: images/YogaMe02.jpg
+# `PilatesMe.png` photo by Oak House
+image: images/PilatesMe.png
 about: # https://quarto.org/docs/websites/website-about.html
   template: jolla
   links:
@@ -22,4 +22,4 @@ University of Sheffield, Sheffield \| Location \| Sept 1988 - June 1991
 
 ## Experience
 
-Workplace \| Job title \| April 20XX - present
+Historic England \| Scientific Dating Co-Ordinator \| April 2011 - April 2024
