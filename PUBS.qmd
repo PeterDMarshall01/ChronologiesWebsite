@@ -8,6 +8,15 @@ Total citations as of July 2025:
 
 - [Research Gate](https://www.researchgate.net/profile/Peter-Marshall-8):
 
+```{r}
+#| echo: false
+
+library(leaflet)
+leaflet() %>%
+  addTiles() %>%  # Add default OpenStreetMap map tiles
+  addMarkers(lng=174.768, lat=-36.852, popup="The birthplace of R")
+```
+
 ### 2023
 Arnold, A, Howard, R, Tyers, C, Dee, M, Palstra, S, and **Marshall, P,** 2023 *Priests’ Room & Annex, Church of St Mary, North Bar Within, Beverley, East Riding of Yorkshire: Radiocarbon wiggle-matching of oak*, HE Res Rep Ser, [23/2023](https://historicengland.org.uk/research/results/reports/23-2023)
 

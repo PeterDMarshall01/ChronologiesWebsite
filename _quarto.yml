@@ -16,9 +16,7 @@ website:
       - href: blog/index.qmd
       - href: PUBS.qmd
         text: PUBS
-      - href: publications3.qmd
-        text: Publications3
-        
+ 
       
         
       
