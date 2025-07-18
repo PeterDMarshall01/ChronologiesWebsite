@@ -1,8 +1,0 @@
----
-title: Projects
-listing:
-  contents: projects.yml
-  type: table
-  max-description-length: 250
-  fields: [title, description, categories]
----
