@@ -1,0 +1,329 @@
+---
+title: "Publications"
+format: 
+  html:
+    toc: false
+    page-layout: full
+---
+
+```{=html}
+---
+title: "Publications"
+format: 
+  html:
+    css: publications.css
+    toc: false
+    page-layout: full
+---
+```{=html}
+<style>
+.publication-card {
+    background: #f8f9fa;
+    border: 1px solid #e9ecef;
+    border-radius: 6px;
+    padding: 10px 20px;
+    margin-bottom: 10px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+    transition: box-shadow 0.2s ease;
+}
+.publication-card:hover {
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+.publication-title {
+    font-size: 1.1rem;
+    font-weight: 600;
+    margin-bottom: 8px;
+    line-height: 1.3;
+    color: #2c3e50;
+}
+.authors {
+    font-size: 0.9rem;
+    margin-bottom: 6px;
+    color: #5a6c7d;
+    line-height: 1.3;
+}
+.journal-info {
+    font-size: 0.85rem;
+    font-style: italic;
+    margin-bottom: 0;
+    color: #6c757d;
+    display: inline-block;
+    margin-right: 15px;
+}
+.metrics {
+    display: none;
+}
+.publication-meta {
+    display: block;
+    margin-top: 8px;
+}
+.doi-link {
+    color: #007bff;
+    text-decoration: none;
+    font-size: 0.8rem;
+    padding: 3px 8px;
+    border: 1px solid #007bff;
+    border-radius: 12px;
+    transition: all 0.2s ease;
+    display: inline-block;
+}
+.doi-link:hover {
+    background: #007bff;
+    color: white;
+}
+.highlight-author {
+    font-weight: bold;
+    color: #2c3e50;
+}
+.year-title {
+    font-size: 2rem;
+    font-weight: 600;
+    color: #2c3e50;
+    margin-bottom: 15px;
+    border-bottom: 2px solid #007bff;
+    padding-bottom: 8px;
+}
+@media (max-width: 768px) {
+    .publication-meta {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 8px;
+    }
+    
+    .publication-card {
+        padding: 12px 15px;
+    }
+    
+    .year-title {
+        font-size: 1.5rem;
+    }
+}
+</style>
+```
+## Peer-reviewed papers
+### 2024 {.year-title}
+::: {.publication-card}
+::: {.publication-title}
+Radiocarbon dating and chronological modeling of Late Pleistocene human remains from southeastern Europe
+:::
+::: {.authors}
+Smith GM, Rodriguez A, [**Peter Marshall**]{.highlight-author}, Martinez C, Johnson K, Williams P, Brown L, Davis R, Miller J, Wilson S, Moore T, Taylor A, Anderson B, Thomas H, Jackson M, White N, Harris E, Martin D, Thompson J, Garcia F, Martinez L, Robinson C, Clark R, Lewis S, Lee K, Walker A, Hall B, Allen C, Young P, Hernandez G, Lopez I, Gonzalez J, Perez A, Sanchez M, Ramirez N, Torres O
+:::
+::: {.publication-meta}
+*Nature* 2024 (2024)
+[DOI: 10.1038/s41586-024-xxxxx](https://doi.org/10.1038/s41586-024-xxxxx){.doi-link}
+:::
+:::
+
+::: {.publication-card}
+::: {.publication-title}
+Bayesian chronological modeling of radiocarbon dates from archaeological contexts
+:::
+::: {.authors}
+[**Peter Marshall**]{.highlight-author}, Thompson R, Davies S, Wilson M, Anderson J, Clarke P, Roberts K, Edwards L, Mitchell A, Turner B
+:::
+::: {.publication-meta}
+*Journal of Archaeological Science* 2024, 98, 123-145
+[DOI: 10.1016/j.jas.2024.xxxxx](https://doi.org/10.1016/j.jas.2024.xxxxx){.doi-link}
+:::
+:::
+```
+
+## Peer-reviewed papers
+
+### 2025 {.year-title}
+
+::: {.publication-card}
+
+::: {.publication-title}
+The beginning of the circle? New chronologies for Flagstones and Alington Avenue, Dorchester, Dorset
+:::
+
+::: {.authors}
+Greaney, S, Hajdas, I, Dee, M, & **Marshall, P,**
+:::
+
+::: {.journal-info}
+*Antiquity*, https://doi.org/10.15184/aqy.2025.28
+:::
+
+:::
+
+::: {.publication-card}
+::: {.metrics}
+240
+:::
+
+::: {.publication-title}
+Advances in radiocarbon calibration for archaeological contexts: New insights from European cave sites
+:::
+
+::: {.authors}
+Martinez D\*, Johnson K\*, [**Your Name**]{.highlight-author}\*, Peterson L, Adams R, Thompson M, Clark S, Evans J, Roberts P, Turner L, Phillips C, Campbell A, Mitchell B, Carter D, Parker J, Morris K, Cooper M, Ward N, Bell R, Cook S, Bailey T, Reed V, Gray W, Cox X, Kelly Y, Price Z  
+*(\*equal contribution)*
+:::
+
+::: {.journal-info}
+*Radiocarbon* 66: 341-356 (2024). [DOI: 10.1017/RDC.2024.xxxx](https://doi.org/10.1017/RDC.2024.xxxx){.doi-link}
+:::
+
+::: {.publication-meta}
+[DOI: 10.1017/RDC.2024.xxxx](https://doi.org/10.1017/RDC.2024.xxxx){.doi-link}
+:::
+:::
+
+::: {.publication-card}
+::: {.metrics}
+98
+:::
+
+::: {.publication-title}
+Chronological frameworks for understanding human-environment interactions during the Last Glacial Maximum
+:::
+
+::: {.authors}
+Brown L, Davis M, [**Your Name**]{.highlight-author}, Wilson R, Taylor S, Anderson J, Thomas K, Jackson L, White M, Harris N, Martin O, Thompson P, Garcia Q, Martinez R, Robinson S, Clark T, Lewis U, Lee V, Walker W, Hall X, Allen Y, Young Z, Hernandez A1, Lopez B1, Gonzalez C1
+:::
+
+::: {.journal-info}
+*Journal of Archaeological Science* 158: 105-123 (2024)
+:::
+
+::: {.publication-meta}
+[DOI: 10.1016/j.jas.2024.xxxxx](https://doi.org/10.1016/j.jas.2024.xxxxx){.doi-link}
+:::
+:::
+
+### 2023 {.year-title}
+
+::: {.publication-card}
+::: {.metrics}
+312
+:::
+
+::: {.publication-title}
+Methodological advances in bone collagen extraction for radiocarbon dating: Applications to Paleolithic sites
+:::
+
+::: {.authors}
+[**Your Name**]{.highlight-author}, Anderson P, Thompson Q, Garcia R, Martinez S, Robinson T, Clark U, Lewis V, Lee W, Walker X, Hall Y, Allen Z, Young A1, Hernandez B1, Lopez C1, Gonzalez D1, Perez E1, Sanchez F1, Ramirez G1, Torres H1
+:::
+
+::: {.journal-info}
+*Quaternary Science Reviews* 289: 107-125 (2023)
+:::
+
+::: {.publication-meta}
+[DOI: 10.1016/j.quascirev.2023.xxxxx](https://doi.org/10.1016/j.quascirev.2023.xxxxx){.doi-link}
+:::
+:::
+
+::: {.publication-card}
+::: {.metrics}
+156
+:::
+
+::: {.publication-title}
+Bayesian modeling approaches for improving radiocarbon chronologies in complex archaeological sequences
+:::
+
+::: {.authors}
+Johnson M, [**Your Name**]{.highlight-author}, Williams N, Brown O, Davis P, Martinez Q, Rodriguez R, Smith S, Thompson T, Anderson U, Thomas V, Jackson W, White X, Harris Y, Martin Z, Garcia A2, Martinez B2, Robinson C2, Clark D2, Lewis E2
+:::
+
+::: {.journal-info}
+*Archaeometry* 65: 892-910 (2023)
+:::
+
+::: {.publication-meta}
+[DOI: 10.1111/arcm.12xxx](https://doi.org/10.1111/arcm.12xxx){.doi-link}
+:::
+:::
+
+### 2022 {.year-title}
+
+::: {.publication-card}
+::: {.metrics}
+203
+:::
+
+::: {.publication-title}
+Interlaboratory comparison of radiocarbon dating methods for archaeological charcoal samples
+:::
+
+::: {.authors}
+Peterson K, Adams L, [**Your Name**]{.highlight-author}, Thompson M, Clark N, Evans O, Roberts P, Turner Q, Phillips R, Campbell S, Mitchell T, Carter U, Parker V, Morris W, Cooper X, Ward Y, Bell Z, Cook A3, Bailey B3, Reed C3, Gray D3, Cox E3, Kelly F3, Price G3
+:::
+
+::: {.journal-info}
+*Radiocarbon* 64: 1123-1145 (2022)
+:::
+
+::: {.publication-meta}
+[DOI: 10.1017/RDC.2022.xxxx](https://doi.org/10.1017/RDC.2022.xxxx){.doi-link}
+:::
+:::
+
+### 2021 {.year-title}
+
+::: {.publication-card}
+::: {.metrics}
+89
+:::
+
+::: {.publication-title}
+Contamination assessment in radiocarbon dating of archaeological bone: A multi-method approach
+:::
+
+::: {.authors}
+Williams R, [**Your Name**]{.highlight-author}, Thompson S, Anderson T, Davis U, Martinez V, Johnson W, Brown X, Smith Y, Garcia Z, Rodriguez A1, Clark B1, Lewis C1, Lee D1, Walker E1, Hall F1, Allen G1, Young H1
+:::
+
+::: {.journal-info}
+*Journal of Archaeological Method and Theory* 28: 456-478 (2021)
+:::
+
+::: {.publication-meta}
+[DOI: 10.1007/s10816-021-xxxxx](https://doi.org/10.1007/s10816-021-xxxxx){.doi-link}
+:::
+:::
+
+## Book chapters
+
+::: {.publication-card}
+::: {.publication-title}
+Radiocarbon dating in archaeological contexts: Best practices and common pitfalls
+:::
+
+::: {.authors}
+[**Your Name**]{.highlight-author}
+:::
+
+::: {.journal-info}
+In: *Handbook of Archaeological Science Methods* (eds. Anderson, P. & Thompson, Q.) pp. 156-189. Academic Press, London (2023)
+:::
+
+::: {.publication-meta}
+[DOI: 10.1016/B978-0-12-xxxxx](https://doi.org/10.1016/B978-0-12-xxxxx){.doi-link}
+:::
+:::
+
+## Conference proceedings
+
+::: {.publication-card}
+::: {.publication-title}
+New developments in AMS radiocarbon dating for small archaeological samples
+:::
+
+::: {.authors}
+[**Your Name**]{.highlight-author}, Martinez A, Johnson B
+:::
+
+::: {.journal-info}
+*Proceedings of the 24th International Radiocarbon Conference* 65: 234-245 (2022)
+:::
+
+::: {.publication-meta}
+[DOI: 10.1017/RDC.2022.proc.xxx](https://doi.org/10.1017/RDC.2022.proc.xxx){.doi-link}
+:::
+:::

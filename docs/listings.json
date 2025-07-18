@@ -1,0 +1,31 @@
+[
+  {
+    "listing": "/blog/index.html",
+    "items": [
+      "/blog/first-post/index.html",
+      "/blog/second-post/index.html",
+      "/blog/third-post/index.html"
+    ]
+  },
+  {
+    "listing": "/publications/index.html",
+    "items": []
+  },
+  {
+    "listing": "/projects/index.html",
+    "items": []
+  },
+  {
+    "listing": "/PUBS.html",
+    "items": [
+      "/blog/index.html",
+      "/blog/first-post/index.html",
+      "/index.html",
+      "/projects/index.html",
+      "/projects.html",
+      "/publications/publications.html",
+      "/blog/second-post/index.html",
+      "/blog/third-post/index.html"
+    ]
+  }
+]
