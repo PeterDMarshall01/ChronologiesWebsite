@@ -4,5 +4,8 @@ listing:
   contents: projects.yml
   type: table
   max-description-length: 250
-  fields: [title, description, categories]
+  fields: [title, description, categories, sub-title]
+  field-display-names:
+    title: "Site"
+    sub-title: "Code"
 ---

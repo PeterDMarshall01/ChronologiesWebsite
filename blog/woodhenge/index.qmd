@@ -1,0 +1,125 @@
+---
+title: "Woodhenge"
+description: "Chronological Modelling"
+image: "cover.jpg"
+categories:
+  - Neolithic
+  - Timber circle
+---
+
+Something about Woodhenge
+
+::: {.callout-note collapse="true"}
+## Expand to get the OxCal code for the Woodhenge model shown in Marshall et al. (2025, fig. 3)
+
+``` default
+ // Model shown in Marshall et al. (2025, fig. 3)
+ Options()
+ {
+  Resolution=1;
+  kIterations=20000;
+ };
+ Plot()
+ {
+  Phase("Woodhenge")
+  {
+   Phase("Henge")
+   {
+    Sequence("Ditch")
+    {
+     Tau_Boundary("StartAntlerCollection");
+     Phase("Antler")
+     {
+      R_Date("BM-677", 3817, 74);
+      R_Date("ETH-103635", 3932, 23);
+      R_Date("ETH-103636", 3961, 23);
+      R_Date("GrM-21325", 4048, 28);
+      R_Date("GrM-21326", 4092, 30);
+      R_Date("GrM-21327", 4040, 29);
+     };
+     Boundary("BuildHenge");
+     After("Animal bone")
+     {
+      R_Date("BM-678", 3755, 54);
+     };
+    };
+    After("Bank")
+    {
+     R_Date("SUERC-32161", 3980, 30);
+    };
+   };
+   Sequence("Timber settings")
+   {
+    Boundary("StartTimberSettings");
+    Phase("Timber posts")
+    {
+     Phase("Ring A")
+     {
+      Phase("A10")
+      {
+       R_Date("ETH-104541", 4084, 24);
+       R_Date("GrM-21409", 4074, 26);
+       Last("A10");
+      };
+      Phase("A60")
+      {
+       R_Date("ETH-103634", 3850, 23)
+       {
+        Outlier();
+       };
+       R_Date("GrM-21315", 3973, 27)
+       {
+        Outlier();
+       };
+      };
+      Last("BuildRingA");
+     };
+     Phase("Ring B")
+     {
+      Phase("B10")
+      {
+       R_Date("ETH-104542", 4118, 25);
+      };
+      R_Combine("B11")
+      {
+       R_Date("ETH-104543", 4157, 24);
+       R_Date("GrM-21411", 4095, 30);
+      };
+      Last("BuildRingB");
+     };
+     Phase("Ring C")
+     {
+      Phase("Timber posts")
+      {
+       Phase("C6")
+       {
+        R_Date("ETH-104544", 4123, 24);
+        R_Date("GrM-21413", 4074, 26);
+        Last("C6");
+       };
+       Phase("C10")
+       {
+        R_Date("ETH-104545", 4101, 24);
+        R_Date("GrM-21414", 4116, 27);
+        Last("C10");
+       };
+       Phase("C15")
+       {
+        R_Date("ETH-104546", 4128, 24);
+        R_Date("GrM-21412", 4105, 26);
+        Last("C15");
+       };
+       Last("BuildRingC");
+      };
+      Phase("C14")
+      {
+       R_Date("OxA-19047", 3997, 40);
+      };
+     };
+    };
+    Boundary("EndTimberSettings");
+   };
+  };
+ };
+```
+:::

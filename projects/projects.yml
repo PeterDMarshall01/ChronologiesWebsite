@@ -1,12 +1,11 @@
-- title: Predicting House Prices with Machine Learning
-  path: https://example.com/house-prices
-  # Photo by Breno Assis on Unsplash https://unsplash.com/photos/aerial-photography-of-rural-r3WAWU5Fi5Q 
-  image: images/breno-assis-r3WAWU5Fi5Q-unsplash.jpg
+- title: Woodhenge, Wiltshire
+  path: https://historicengland.org.uk/research/results/reports/94-2024
+  sub-title: "<a href='/blog/first-post/'>OxCal code</a>"
   description: >
-    This project involves using machine learning algorithms to predict house prices based on
-    various features such as location, size, and amenities. It includes data cleaning,
-    feature engineering, and model selection.
-  categories: [Python, Machine Learning, Data Cleaning]
+   Radiocarbon dating and chronological modelling of samples from Woodhenge was
+   undertaken in support of research undertaken by Dr Amanda Chadburn for a Historic
+   England book, Stonehenge: Sighting the Sun.
+  categories: [Neolithic, Timber circle]
   date: 2024-01-01
 
 - title: Customer Segmentation Using Clustering Techniques

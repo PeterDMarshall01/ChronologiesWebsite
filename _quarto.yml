@@ -11,11 +11,15 @@ website:
     right:
       - href: publications/publications.qmd
         text: Publications
-      - href: projects.qmd
+      - href: projects/index.qmd
         text: Projects
       - href: blog/index.qmd
       - href: PUBS.qmd
         text: PUBS
+      - href: about.qmd
+        text: About us
+      - href: blog/index.qmd
+        text: Code
  
       
         

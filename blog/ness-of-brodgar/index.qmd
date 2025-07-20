@@ -1,0 +1,29 @@
+---
+title: "Ness of Brodgar"
+description: "Chronological Modelling"
+image: "cover.jpg"
+categories:
+  - Neolithic
+  - Timber circle
+---
+## Publications
+Card, N, Mainland, I, Timpany, S, Towers, R, Batt, C, Bronk Ramsey, C, Dunbar, E, Reimer, P, Bayliss, A, **Marshall, P**, and Whittle, A, 2018 To cut a long story short: formal chronological modelling for the Late Neolithic site of Ness of Brodgar, Orkney, *European Journal of Archaeology*, 21(2), 217–263. [doi:10.1017/eaa.2016.29](https://doi.org/10.1017/eaa.2016.29)
+
+::: {.altmetric-embed data-badge-type="donut" data-badge-popover="left" data-doi="110.1017/eaa.2016.29"}
+:::
+
+::: {.callout-note collapse="true"}
+## Expand to get the OxCal code for the Ness of Brodgar model shown in Marshall et al. (2025, fig. 3)
+
+``` Oxcal
+ // Model shown in Marshall et al. (2025, fig. 3)
+```
+:::
+
+```{=html}
+<script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+```
+
+```{=html}
+<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+```

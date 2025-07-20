@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Blog – Home</title>
+<title>Sites – Home</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -79,7 +79,7 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-date','listing-title','listing-author',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-title-sort'] }],
+      valueNames: ['listing-title','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-title-sort'] }],
       
       searchColumns: ["listing-date","listing-title","listing-author"],
     };
@@ -129,7 +129,7 @@ window.Quarto = {
 };
 </script>
 
-<meta property="og:title" content="Blog – Home">
+<meta property="og:title" content="Sites – Home">
 <meta property="og:site_name" content="Home">
 </head>
 
@@ -155,16 +155,24 @@ window.Quarto = {
 <span class="menu-text">Publications</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../projects.html"> 
+    <a class="nav-link" href="../projects/index.html"> 
 <span class="menu-text">Projects</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link active" href="../blog/index.html" aria-current="page"> 
-<span class="menu-text">Blog</span></a>
+<span class="menu-text">Sites</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="../PUBS.html"> 
 <span class="menu-text">PUBS</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../about.html"> 
+<span class="menu-text">About us</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../blog/index.html"> 
+<span class="menu-text">Code</span></a>
   </li>  
 </ul>
           </div> <!-- /navcollapse -->
@@ -183,7 +191,7 @@ window.Quarto = {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Blog</h1>
+<h1 class="title">Sites</h1>
 </div>
 
 
@@ -211,17 +219,8 @@ window.Quarto = {
     <select id="listing-listing-sort" class="form-select" aria-label="Order By" onchange="window['quarto-listings']['listing-listing'].sort(this.options[this.selectedIndex].value, { order: this.options[this.selectedIndex].getAttribute('data-direction')})">
       <option value="" disabled="" selected="" hidden="">Order By</option>
       <option value="index" data-direction="asc">Default</option>
-      <option value="listing-date-sort" data-direction="asc">
-        Date - Oldest
-      </option>
-      <option value="listing-date-sort" data-direction="desc">
-        Date - Newest
-      </option>
       <option value="listing-title-sort" data-direction="asc">
-        Title
-      </option>
-      <option value="listing-author" data-direction="asc">
-        Author
+        Site
       </option>
     </select>
   </div>
@@ -235,56 +234,56 @@ window.Quarto = {
 <tr>
 
 <th>
-<a class="sort" data-sort="listing-date-sort" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Date</a>
+<a class="sort" data-sort="listing-title-sort" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Site</a>
 </th>
 
 <th>
-<a class="sort" data-sort="listing-title-sort" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Title</a>
+Description
 </th>
 
 <th>
-<a class="sort" data-sort="listing-author" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Author</a>
+Categories
 </th>
 
 </tr>
 </thead>
 <tbody class="list">
 
-<tr data-index="0" data-categories="U2NpZW5jZSUyQ1RlY2hub2xvZ3k=" data-listing-date-sort="1621638000000" data-listing-file-modified-sort="1752690298718" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="260" data-listing-title-sort="First Post" data-listing-filename-sort="index.qmd">
+<tr data-index="0" data-categories="TmVvbGl0aGljJTJDVGltYmVyJTIwY2lyY2xl" data-listing-file-modified-sort="1752930520057" data-listing-reading-time-sort="1" data-listing-word-count-sort="93" data-listing-title-sort="Ness of Brodgar" data-listing-filename-sort="index.qmd">
 <td>
-<span class="listing-date">May 22, 2021</span>
+<a href="../blog/ness-of-brodgar/index.html" class="title listing-title">Ness of Brodgar</a>
 </td>
 <td>
-<a href="../blog/first-post/index.html" class="title listing-title">First Post</a>
+<span class="listing-description">Chronological Modelling</span>
 </td>
 <td>
-<span class="listing-author">Alicia </span>
+<span class="listing-categories">Neolithic, Timber circle</span>
 </td>
 
 </tr>
 
 <tr data-index="1" data-categories="U2NpZW5jZSUyQ0RhdGE=" data-listing-date-sort="1621724400000" data-listing-file-modified-sort="1752690298719" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="263" data-listing-title-sort="Second Post" data-listing-filename-sort="index.qmd">
 <td>
-<span class="listing-date">May 23, 2021</span>
+<a href="../blog/stonehenge/index.html" class="title listing-title">Second Post</a>
 </td>
 <td>
-<a href="../blog/second-post/index.html" class="title listing-title">Second Post</a>
+<span class="listing-description">Post description for second post</span>
 </td>
 <td>
-<span class="listing-author">Alicia </span>
+<span class="listing-categories">Science, Data</span>
 </td>
 
 </tr>
 
-<tr data-index="2" data-categories="U2NpZW5jZSUyQ0RhdGE=" data-listing-date-sort="1621810800000" data-listing-file-modified-sort="1752690298719" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="26" data-listing-title-sort="Third Blog Post" data-listing-filename-sort="index.ipynb">
+<tr data-index="2" data-categories="TmVvbGl0aGljJTJDVGltYmVyJTIwY2lyY2xl" data-listing-file-modified-sort="1752927001968" data-listing-reading-time-sort="4" data-listing-word-count-sort="646" data-listing-title-sort="Woodhenge" data-listing-filename-sort="index.qmd">
 <td>
-<span class="listing-date">May 24, 2021</span>
+<a href="../blog/woodhenge/index.html" class="title listing-title">Woodhenge</a>
 </td>
 <td>
-<a href="../blog/third-post/index.html" class="title listing-title">Third Blog Post</a>
+<span class="listing-description">Chronological Modelling</span>
 </td>
 <td>
-<span class="listing-author">Alicia </span>
+<span class="listing-categories">Neolithic, Timber circle</span>
 </td>
 
 </tr>

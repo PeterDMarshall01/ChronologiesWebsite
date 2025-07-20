@@ -41,7 +41,7 @@ ul.task-list li input[type="checkbox"] {
 <link href="../site_libs/quarto-html/quarto-syntax-highlighting-37eea08aefeeee20ff55810ff984fec1.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap-8313aa3b3edc6dbde13ab6f32f55acd7.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-e94b5dc19cde8350e2c976e1f0dc8a17.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -79,9 +79,9 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-title','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-title-sort'] },{ data: ['listing-date-sort'] }],
+      valueNames: ['listing-title','listing-description','listing-categories','listing-sub-title',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-title-sort'] },{ data: ['listing-date-sort'] }],
       
-      searchColumns: ["listing-title","listing-image","listing-description","listing-categories","listing-date"],
+      searchColumns: ["listing-title","listing-sub-title","listing-description","listing-categories","listing-date","listing-image"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -151,16 +151,28 @@ window.Quarto = {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link" href="../publications/index.html"> 
+    <a class="nav-link" href="../publications/publications.html"> 
 <span class="menu-text">Publications</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../projects.html"> 
+    <a class="nav-link active" href="../projects/index.html" aria-current="page"> 
 <span class="menu-text">Projects</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="../blog/index.html"> 
-<span class="menu-text">Blog</span></a>
+<span class="menu-text">Sites</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../PUBS.html"> 
+<span class="menu-text">PUBS</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../about.html"> 
+<span class="menu-text">About us</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../blog/index.html"> 
+<span class="menu-text">Code</span></a>
   </li>  
 </ul>
           </div> <!-- /navcollapse -->
@@ -208,7 +220,10 @@ window.Quarto = {
       <option value="" disabled="" selected="" hidden="">Order By</option>
       <option value="index" data-direction="asc">Default</option>
       <option value="listing-title-sort" data-direction="asc">
-        Title
+        Site
+      </option>
+      <option value="listing-sub-title" data-direction="asc">
+        Code
       </option>
       <option value="listing-description" data-direction="asc">
         Description
@@ -228,7 +243,7 @@ window.Quarto = {
 <tr>
 
 <th>
-<a class="sort" data-sort="listing-title-sort" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Title</a>
+<a class="sort" data-sort="listing-title-sort" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Site</a>
 </th>
 
 <th>
@@ -239,19 +254,26 @@ window.Quarto = {
 <a class="sort" data-sort="listing-categories" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Categories</a>
 </th>
 
+<th>
+<a class="sort" data-sort="listing-sub-title" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Code</a>
+</th>
+
 </tr>
 </thead>
 <tbody class="list">
 
-<tr data-index="0" data-categories="UHl0aG9uJTJDTWFjaGluZSUyMExlYXJuaW5nJTJDRGF0YSUyMENsZWFuaW5n" data-listing-date-sort="1704067200000" data-listing-title-sort="Predicting House Prices with Machine Learning">
+<tr data-index="0" data-categories="TmVvbGl0aGljJTJDVGltYmVyJTIwY2lyY2xl" data-listing-date-sort="1704067200000" data-listing-title-sort="Woodhenge, Wiltshire">
 <td>
-<a href="https://example.com/house-prices" class="title listing-title">Predicting House Prices with Machine Learning</a>
+<a href="https://historicengland.org.uk/research/results/reports/94-2024" class="title listing-title">Woodhenge, Wiltshire</a>
 </td>
 <td>
-<span class="listing-description">This project involves using machine learning algorithms to predict house prices based on various features such as location, size, and amenities. It includes data cleaning, feature engineering, and model selection. </span>
+<span class="listing-description">Radiocarbon dating and chronological modelling of samples from Woodhenge was undertaken in support of research undertaken by Dr Amanda Chadburn for a Historic England book, Stonehenge: Sighting the Sun. </span>
 </td>
 <td>
-<span class="listing-categories">Python, Machine Learning, Data Cleaning</span>
+<span class="listing-categories">Neolithic, Timber circle</span>
+</td>
+<td>
+<span class="listing-sub-title"><a href="../blog/first-post/">OxCal code</a></span>
 </td>
 
 </tr>
@@ -266,6 +288,9 @@ window.Quarto = {
 <td>
 <span class="listing-categories">R, Machine Learning, Clustering, Statistical Modelling</span>
 </td>
+<td>
+<span class="listing-sub-title">&nbsp;</span>
+</td>
 
 </tr>
 
@@ -278,6 +303,9 @@ window.Quarto = {
 </td>
 <td>
 <span class="listing-categories">R, Data Visualization, Environmental Science</span>
+</td>
+<td>
+<span class="listing-sub-title">&nbsp;</span>
 </td>
 
 </tr>
