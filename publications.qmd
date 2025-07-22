@@ -1,0 +1,33 @@
+---
+title: Publications
+---
+
+## Peter Marshall
+
+One of the most enduring rituals of 'academic life' is the dutiful compilation of publications—that familiar litany of books and journal articles for which one must claim responsibility. Presumably this exercise demonstrates scholarly credibility to colleagues, who will scan the accumulated citations and find reassurance in their methodical completeness. While I no longer navigate the corridors of academic institutions, I haven't entirely abandoned the habit of cataloguing my research output. The record below contains some highlights, for a longer list see [Research Gate](https://www.researchgate.net/profile/Peter-Marshall-8) and [Google Scholar](https://scholar.google.com/citations?user=6umhXIcAAAAJ&hl=en).
+
+During my time at English Heritage & Historic England, my research centered on understanding past human behaviors and environmental conditions through scientific analysis—particularly the application of radiocarbon dating and related chronometric techniques to archaeological contexts. The work encompassed radiocarbon calibration, Bayesian statistical modeling of dates, taphonomic processes affecting organic preservation, stable isotope analysis, and the integration of multiple dating methods for robust chronological frameworks. I also explored broader questions of how environmental change influenced cultural transitions and settlement patterns in the archaeological record.
+
+In my current role, my research output has naturally diminished compared to those more productive years. Nevertheless, my ongoing work as a scientific dating consultant continues to generate findings worthy of publication, and these contributions are gradually appearing in specialist journals & books.
+
+Some recent publcations are detailed below
+
+Greaney S, Hajdas I, Dee M, **Marshall P.** 2025. Beginning of the circle? Revised chronologies for Flagstones and Alington Avenue, Dorchester, Dorset. *Antiquity*, 99(405):655-671. [doi:10.15184/aqy.2025.28](https://doi.org/10.15184/aqy.2025.28)
+
+::: {.altmetric-embed data-badge-popover="right" data-badge-type="1" data-doi="10.15184/aqy.2025.28" data-hide-no-mentions="true"}
+:::
+
+Grant, M. & **Marshall, P.** (eds) 2025 *Scientific Dating of Pleistocene Sites: Guidelines for Best Practice*. Historic England, London. [availabe here](https://historicengland.org.uk/images-books/publications/scientific-dating-pleistocene-sites/)
+
+Bayliss, A, Brown, D, Dee, M, **Marshall, P**, & Wacker, L. 2024. Caveat emptor! - Wiggle-matching European wood samples (AD 46–AD 286), *Radiocarbon*, 66(3):580-596. [doi:10.1017/RDC.2024.54](https://doi.org/10.1017/RDC.2024.54)
+
+**Marshall, P,** Bayliss, A, Bronk Ramsey, C, Cook, G, & Reimer, P, 2024. *Radiocarbon Dates from samples funded by English Heritage between 2010 and 2015*, Historic England, Swindon. [availabe here](https://historicengland.org.uk/images-books/publications/radiocarbon-dates-2010-15/)
+
+
+```{=html}
+<script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+```
+
+```{=html}
+<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+```

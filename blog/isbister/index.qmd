@@ -1,0 +1,132 @@
+---
+title: "Isbister"
+---
+### Radiocarbon dating & chronological modelling
+
+Known colloquially as the Tomb of the Eagles – the eagles in question being secondary deposits (Sheridan 2005; Pitts 2006) – this oval cairn with its stalled chamber with cells is located close to 30 m-high cliffs on South Ronaldsay. Initial digging by the landowner, Ronnie Simison, took place in 1958 (P. Ritchie 1961), with further, more extensive investigations undertaken by Simison in 1976–79 and 1982 (Hedges 1983; Davidson & Henshall 1989, 125–31).
+
+The central chamber is 8.2 m long and is divided into five segments by transversely set orthostats. The two end compartments are structurally distinct from the central portion of the chamber, and there are three side cells leading off from the chamber. The western half of the cairn is encased by a rubble mound, 30 m across, which was edged by a semi-circular ‘horn’. The remains of 85 human individuals were found in the monument. (Note that this MNI estimate, by David Lawrence [2006], is more reliable than that of 342 posited by Judson Chesterman and cited in Hedges 1983.) A diverse faunal assemblage of terrestrial and marine species included the remains of at least six white-tailed sea eagles, bones from two of which have been radiocarbon-dated (Sheridan 2005).
+
+Forty-one radiocarbon determinations have been produced on the human and animal bone assemblage (Renfrew et al. 1983; Sheridan 2005; Sheridan et al. 2012; Lawrence & Lee-Thorp 2012; Olalde et al. 2018; Sheridan et al. 2018; Sheridan & Schulting 2020, fig. 18.7; Table S6). Given that all the human and animal remains were disarticulated and paired bones from the same individual were reportedly found in different contexts in the monument it is not surprising that previous attempts to incorporate stratigraphic relationships between samples into chronological models (Schulting et al. 2010; Griffiths 2016) have produced poor agreement. An additional issue is that the site was described with just 16 ‘layers’ of limited stratigraphic significance (Hedges 1983, table 1). The ‘layers’ are not discrete contexts but appear to derive from an interpretative framework that for example omits ‘cuts’. Lawrence (2012, 93) concluded by advocating that ‘The suggested stratigraphy and phasing of the Isbister deposits cannot be confidently accepted’. 
+
+###	Ceramics
+The ceramic assemblage comprises 48 pots in total, which are described and illustrated in Davidson & Henshall 1989, 127–9 and figs 22–24). With one exception – Davidson and Henshall’s No. 47 – it consists of round- and probably pointed-based vessels, ranging in shape from bipartite carinated or shouldered bowls, including several ‘Unstan’ bowls (e.g. Davidson and Henshall’s Nos 1–23, 42) to globular (e.g. No. 27) and U-profiled (e.g. No. 28) lugged pots. The exception, No. 47, is a coarse pot with a narrow flat base. This is not Grooved Ware (contra Davidson & Henshall) but is arguably comparable with some of the Pool Phase 2.2 and 2.3 pottery (MacSween et al. 2015, fig. 6) and may well be a variant on the pointed-based vessels as seen, for example, at Knap of Howar, Phase 2 (Ritchie 1983, fig. 9
+
+![](Figure-07.png) 
+
+**Marshall, P,** Chadburn, A, Dee, M, Hajdas, I, & Pollard, J, 2024 *Woodhenge, Durrington, Wiltshire Radiocarbon dating and chronological modelling*, HE Res Rep Ser, 94/2024: [available here](https://historicengland.org.uk/research/results/reports/94-2024)
+
+::: {.callout-note collapse="true"}
+## Expand to get the OxCal code for the Woodhenge model shown in Marshall et al. (2025, fig. 3)
+
+``` default
+ // Model shown in Marshall et al. (2025, fig. 3)
+ Options()
+ {
+  Resolution=1;
+  kIterations=20000;
+ };
+ Plot()
+ {
+  Phase("Woodhenge")
+  {
+   Phase("Henge")
+   {
+    Sequence("Ditch")
+    {
+     Tau_Boundary("StartAntlerCollection");
+     Phase("Antler")
+     {
+      R_Date("BM-677", 3817, 74);
+      R_Date("ETH-103635", 3932, 23);
+      R_Date("ETH-103636", 3961, 23);
+      R_Date("GrM-21325", 4048, 28);
+      R_Date("GrM-21326", 4092, 30);
+      R_Date("GrM-21327", 4040, 29);
+     };
+     Boundary("BuildHenge");
+     After("Animal bone")
+     {
+      R_Date("BM-678", 3755, 54);
+     };
+    };
+    After("Bank")
+    {
+     R_Date("SUERC-32161", 3980, 30);
+    };
+   };
+   Sequence("Timber settings")
+   {
+    Boundary("StartTimberSettings");
+    Phase("Timber posts")
+    {
+     Phase("Ring A")
+     {
+      Phase("A10")
+      {
+       R_Date("ETH-104541", 4084, 24);
+       R_Date("GrM-21409", 4074, 26);
+       Last("A10");
+      };
+      Phase("A60")
+      {
+       R_Date("ETH-103634", 3850, 23)
+       {
+        Outlier();
+       };
+       R_Date("GrM-21315", 3973, 27)
+       {
+        Outlier();
+       };
+      };
+      Last("BuildRingA");
+     };
+     Phase("Ring B")
+     {
+      Phase("B10")
+      {
+       R_Date("ETH-104542", 4118, 25);
+      };
+      R_Combine("B11")
+      {
+       R_Date("ETH-104543", 4157, 24);
+       R_Date("GrM-21411", 4095, 30);
+      };
+      Last("BuildRingB");
+     };
+     Phase("Ring C")
+     {
+      Phase("Timber posts")
+      {
+       Phase("C6")
+       {
+        R_Date("ETH-104544", 4123, 24);
+        R_Date("GrM-21413", 4074, 26);
+        Last("C6");
+       };
+       Phase("C10")
+       {
+        R_Date("ETH-104545", 4101, 24);
+        R_Date("GrM-21414", 4116, 27);
+        Last("C10");
+       };
+       Phase("C15")
+       {
+        R_Date("ETH-104546", 4128, 24);
+        R_Date("GrM-21412", 4105, 26);
+        Last("C15");
+       };
+       Last("BuildRingC");
+      };
+      Phase("C14")
+      {
+       R_Date("OxA-19047", 3997, 40);
+      };
+     };
+    };
+    Boundary("EndTimberSettings");
+   };
+  };
+ };
+```
+:::

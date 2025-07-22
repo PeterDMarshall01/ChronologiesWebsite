@@ -1,0 +1,22 @@
+---
+title: "Science and the Dead: Destructive sampling of archaeological human remains for scientific analysis"
+description: "This document provides guidance for organisations on evaluating requests to conduct destructive scientific analysis on archaeological human remains."
+image: image.jpg
+---
+
+
+::: {.columns}
+::: {.column width="35%"}
+![](science-dead-cover.jpg) 
+:::
+
+::: {.column width="10%"}
+<!-- empty column to create gap -->
+:::
+
+::: {.column width="55%"}
+Mays, S, Elders, J, Humphrey, L and **Marshall, P.** 2023. *Science and the Dead: Destructive sampling of archaeological human remains for scientific analysis*. Second Edition. Advisory Panel on the Archaeology of Human Burials in England. 
+  
+[availabe here](https://historicengland.org.uk/content/docs/advice/science-and-the-dead-2nd-ed/)
+:::
+:::

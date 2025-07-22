@@ -1,8 +1,8 @@
 ---
 title: "Chronologies"
 subtitle: "Specialists in Scientific Dating for Archaeology & the Hertiage Sector"
-# `PilatesMe.png` photo by Oak House
-image: images/PilatesMe.png
+# `Links of Noltland` photo by Oak House
+image: images/Links-of-Noltland.jpg
 about: # https://quarto.org/docs/websites/website-about.html
   template: marquee
   links:

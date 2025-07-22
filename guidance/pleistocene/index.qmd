@@ -1,0 +1,24 @@
+---
+title: "Scientific Dating of Pleistocene Sites:"
+description: "These guidelines provide advice on best practice for the use of scientific dating on Pleistocene sites. They are applicable to all archaeological projects but are aimed primarily at those undertaken as part of the planning process."
+image: fig_23.png
+---
+
+
+::: {.columns}
+::: {.column width="35%"}
+![](pleistocene-cover.jpg) 
+:::
+
+::: {.column width="10%"}
+<!-- empty column to create gap -->
+:::
+
+::: {.column width="55%"}
+Grant, M. and **Marshall, P.** (eds) 2025. *Scientific Dating of Pleistocene Sites:
+Guidelines for Best Practice*. Historic England Advice and Guidance HEAG0325.
+(Historic England, London). 
+  
+[available here](https://historicengland.org.uk/images-books/publications/scientific-dating-pleistocene-sites/)
+:::
+:::

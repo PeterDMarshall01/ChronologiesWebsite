@@ -1,0 +1,22 @@
+---
+title: "Radiocarbon dating & Chronological modelling"
+description: "This document provides guidelines for good practice in the use of radiocarbon dating and chronological modelling in archaeology."
+image: IMG_7432.jpg
+---
+
+
+::: {.columns}
+::: {.column width="35%"}
+![](radiocarbon-cover.jpg) 
+:::
+
+::: {.column width="10%"}
+<!-- empty column to create gap -->
+:::
+
+::: {.column width="55%"}
+Bayliss, A, and **Marshall, P**, 2022 Radiocarbon Dating and Chronological Modelling: Guidelines and Best Practice (Historic England, London). 
+  
+[availabe here](https://historicengland.org.uk/images-books/publications/radiocarbon-dating-chronological-modelling)
+:::
+:::

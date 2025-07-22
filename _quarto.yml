@@ -9,21 +9,18 @@ website:
   navbar:
     title: Chronologies
     right:
-      - href: publications/publications.qmd
+      - href: publications.qmd
         text: Publications
-      - href: projects/index.qmd
-        text: Projects
-      - href: blog/index.qmd
-      - href: PUBS.qmd
-        text: PUBS
+      - href: research/MapTest_Static.qmd
+        text: Research
+      - href: guidance/index.qmd
+        text: Guidance
       - href: about.qmd
         text: About us
-      - href: blog/index.qmd
-        text: Code
- 
-      
-        
-      
+    
+  
+
+     
 format:
   html:
     fontsize: 20px

@@ -6,6 +6,6 @@ Chronologies was founded to meet the growing need for independent, scientificall
 
 Our work has supported major research and heritage-led investigations across the UK and internationally. Notable projects include [Project Name 1], [Project Name 2], and [Project Name 3] — each demonstrating our ability to apply chronological tools to complex archaeological questions. Further details on these and other collaborations can be found on our [Projects] page.
 
-We are also active contributors to the development of dating guidance and best practice. Our co-authored publications include nationally recognised frameworks and methodological reviews, helping to shape the standards by which dating evidence is commissioned, evaluated, and used. Key examples include [Title of Guidance Document] and [Title of Methodological Paper], accessible via our [Resources] section.
+We are also active contributors to the development of dating guidance and best practice. Our co-authored publications include nationally recognised frameworks and methodological reviews, helping to shape the standards by which dating evidence is commissioned, evaluated, and used. Key examples include [Radiocarbon Dating & Chronological Modelling](/guidance/radiocarbon/index.qmd) and [Scientific Dating for Pleistocene Sites](/guidance/pleistocene/index.qmd)
 
 Whether advising on sampling strategy, evaluating multi-method chronologies, or supporting publication and otreach, we are committed to delivering clear, context-aware, and scientifically robust input at every stage of the archaeological process.

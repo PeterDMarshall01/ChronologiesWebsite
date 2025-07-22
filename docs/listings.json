@@ -2,9 +2,11 @@
   {
     "listing": "/blog/index.html",
     "items": [
+      "/blog/isbister/index.html",
       "/blog/ness-of-brodgar/index.html",
       "/blog/stonehenge/index.html",
-      "/blog/woodhenge/index.html"
+      "/blog/woodhenge/index.html",
+      "/blog/lismullin/index.html"
     ]
   },
   {
@@ -26,6 +28,18 @@
       "/publications/publications.html",
       "/blog/second-post/index.html",
       "/blog/third-post/index.html"
+    ]
+  },
+  {
+    "listing": "/research/table.html",
+    "items": []
+  },
+  {
+    "listing": "/guidance/index.html",
+    "items": [
+      "/guidance/radiocarbon/index.html",
+      "/guidance/science-dead/index.html",
+      "/guidance/pleistocene/index.html"
     ]
   }
 ]
