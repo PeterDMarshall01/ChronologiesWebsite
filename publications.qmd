@@ -4,9 +4,23 @@ title: Publications
 
 ## Peter Marshall
 
-One of the most enduring rituals of 'academic life' is the dutiful compilation of publications—that familiar litany of books and journal articles for which one must claim responsibility. Presumably this exercise demonstrates scholarly credibility to colleagues, who will scan the accumulated citations and find reassurance in their methodical completeness. While I no longer navigate the corridors of academic institutions, I haven't entirely abandoned the habit of cataloguing my research output. The record below contains some highlights, for a longer list see [Research Gate](https://www.researchgate.net/profile/Peter-Marshall-8) and [Google Scholar](https://scholar.google.com/citations?user=6umhXIcAAAAJ&hl=en).
+:::::: {.columns style="align-items: stretch;"}
+::: {.column width="35%"}
+![](/images/paper.png)
+:::
+::: {.column width="10%"}
+<!-- empty column to create gap -->
+:::
+::: {.column width="55%"}
 
-During my time at English Heritage & Historic England, my research centered on understanding past human behaviors and environmental conditions through scientific analysis—particularly the application of radiocarbon dating and related chronometric techniques to archaeological contexts. The work encompassed radiocarbon calibration, Bayesian statistical modeling of dates, taphonomic processes affecting organic preservation, stable isotope analysis, and the integration of multiple dating methods for robust chronological frameworks. I also explored broader questions of how environmental change influenced cultural transitions and settlement patterns in the archaeological record.
+One of the most enduring rituals of 'academic life' is the dutiful compilation of publications—that familiar litany of books and journal articles for which one must claim responsibility. Presumably this exercise demonstrates scholarly credibility to colleagues.
+:::
+::::::
+ While I no longer navigate the corridors of academic institutions, I haven't entirely abandoned the habit of cataloguing my research output. The record below contains some highlights, for a longer list see [Research Gate](https://www.researchgate.net/profile/Peter-Marshall-8) and [Google Scholar](https://scholar.google.com/citations?user=6umhXIcAAAAJ&hl=en).
+
+During my time at [English Heritage](https://www.english-heritage.org.uk/) & [Historic England](https://historicengland.org.uk/research/methods/archaeology/scientific-dating/), my research centered on understanding past human behaviors and environmental conditions through scientific analysis—particularly the application of radiocarbon dating and related chronometric techniques to archaeological contexts. 
+
+The work encompassed radiocarbon calibration, Bayesian statistical modeling of dates, taphonomic processes affecting organic preservation, stable isotope analysis, and the integration of multiple dating methods for robust chronological frameworks. I also explored broader questions of how environmental change influenced cultural transitions and settlement patterns in the archaeological record.
 
 In my current role, my research output has naturally diminished compared to those more productive years. Nevertheless, my ongoing work as a scientific dating consultant continues to generate findings worthy of publication, and these contributions are gradually appearing in specialist journals & books.
 

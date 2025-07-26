@@ -1,0 +1,6 @@
+---
+  title: Contact us
+---
+  
+For all enquiries, please feel free to contact us by via email. 
+Email: [your.email@example.com]

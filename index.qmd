@@ -1,17 +1,15 @@
 ---
 title: "Chronologies"
 subtitle: "Specialists in Scientific Dating for Archaeology & the Hertiage Sector"
-# `Links of Noltland` photo by Oak House
+# `Links of Noltland` photo by Peter Marshall
 image: images/Links-of-Noltland.jpg
 about: # https://quarto.org/docs/websites/website-about.html
   template: marquee
   links:
     - icon: github
       text: Github
-      href: https://github.com
-    - icon: linkedin
-      text: LinkedIn
-      href: https://linkedin.com
+      href: https://github.com/PeterDMarshall01
+
 ---
 With over 25 years of experience, Chronologies is a trusted provider of independent, expert advice on scientific dating for archaeological & heritage research. We work closely with academic institutions, heritage professionals, and commercial archaeologists to provide robust, contextually informed chronological frameworks.
 

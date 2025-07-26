@@ -1,6 +1,6 @@
 
 ---
-title: "Chronologies Sites Map"
+title: "Chronologies Research Map"
 format: html
 ---
 
@@ -69,7 +69,7 @@ map
 ### How to use
 
 
-The map provides a spatial overview of some of the sites sites & projects we have been fortunate to have worked on.
+The map provides a spatial overview of some of the sites & projects we have been fortunate to have worked on.
 
 -   **Basic Navigation:** Use the **+ and - buttons** (top left) to zoom in and out of the map 
 **Click and drag** to pan around different geographic areas

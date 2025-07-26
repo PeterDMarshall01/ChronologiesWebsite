@@ -2,9 +2,23 @@
 title: About us
 ---
 
-Chronologies was founded to meet the growing need for independent, scientifically informed advice on scientific dating. With over 25 years of experience in the field, we bring deep expertise in the application, interpretation, and integration of scientific dating methods across a wide range of archaeological contexts.
+Chronologies was founded to meet the growing need for independent, informed advice on scientific dating. With over 25 years of experience in the field, we bring deep expertise in the application, interpretation, and integration of scientific dating methods across a wide range of archaeological contexts.
 
-Our work has supported major research and heritage-led investigations across the UK and internationally. Notable projects include [Project Name 1], [Project Name 2], and [Project Name 3] — each demonstrating our ability to apply chronological tools to complex archaeological questions. Further details on these and other collaborations can be found on our [Projects] page.
+:::::: {.columns style="align-items: center;"}
+::: {.column width="35%"}
+![](/images/liquid-N-to-freeze-CO2.jpg)
+:::
+
+::: {.column width="10%"}
+<!-- empty column to create gap -->
+:::
+
+::: {.column width="55%"}
+Our work has supported major research and heritage-led investigations across the United Kingdom and internationally. Notable projects include \[Stonehenge\], \[Neolithic Orkney\], and \[Project Name 3\] — demonstrating our ability to apply chronological tools to complex archaeological questions. These collaborations have contributed to refine our understanding of cultural change, environmental adaptation, and human mobility across different temporal and geographical contexts.
+:::
+::::::
+
+Further details on these and other collaborations can be found on our \[Research\] page.
 
 We are also active contributors to the development of dating guidance and best practice. Our co-authored publications include nationally recognised frameworks and methodological reviews, helping to shape the standards by which dating evidence is commissioned, evaluated, and used. Key examples include [Radiocarbon Dating & Chronological Modelling](/guidance/radiocarbon/index.qmd) and [Scientific Dating for Pleistocene Sites](/guidance/pleistocene/index.qmd)
 

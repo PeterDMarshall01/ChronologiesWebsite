@@ -1,0 +1,18 @@
+---
+title: Contact
+---
+
+Chronologies was founded to meet the growing need for independent, informed advice on scientific dating. With over 25 years of experience in the field, we bring deep expertise in the application, interpretation, and integration of scientific dating methods across a wide range of archaeological contexts.
+
+:::::: {.columns style="align-items: center;"}
+::: {.column width="35%"}
+![](/images/IMG_3491.jpg)
+:::
+
+::: {.column width="10%"}
+<!-- empty column to create gap -->
+:::
+
+::: {.column width="55%"}
+:::
+::::::

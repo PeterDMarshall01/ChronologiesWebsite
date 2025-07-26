@@ -17,6 +17,8 @@ website:
         text: Guidance
       - href: about.qmd
         text: About us
+      - href: contact.qmd
+        text: Contact
     
   
 
