@@ -1,8 +1,9 @@
 
 ---
-title: "Chronologies Research Map"
+title: "Chronologies Research" 
 format: html
 ---
+The map below contains links to all our research. 
 
 ```{r}
 #| echo: false
@@ -55,12 +56,6 @@ map <- map %>%
   addLayersControl(
     overlayGroups = unique_periods,
     options = layersControlOptions(collapsed = FALSE)
-  ) %>%
-  addLegend(
-    position = "bottomright",
-    colors = palette(unique_periods),
-    labels = unique_periods,
-    title = "Archaeological Periods"
   )
 
 map
@@ -75,3 +70,11 @@ The map provides a spatial overview of some of the sites & projects we have been
 **Click and drag** to pan around different geographic areas
 
 -   **Finding Sites:** **Markers** indicate  sites or project we have been involved with. **Click on any marker** for links to further information
+
+-   **Using the Archaeological Period Filters:** The checkboxes on the right side of the map allow you to filter research sites and projects by archaeological period.
+
+-   **How to Filter by Period:** Select periods of interest: Click the checkboxes next to the archaeological periods you wish to view. Multiple periods can be selected simultaneously to compare sites across different time periods.
+
+-   **View results:** Sites and projects dating to your selected periods will remain visible on the map, while others will be hidden.
+
+-   **Clear filters:** Uncheck boxes to remove periods from your view, or uncheck all boxes to return to the full dataset view.

@@ -46,7 +46,7 @@
     "href": "index.html",
     "title": "Chronologies",
     "section": "",
-    "text": "With over 25 years of experience, Chronologies is a trusted provider of independent, expert advice on scientific dating for archaeological & heritage research. We work closely with academic institutions, heritage professionals, and commercial archaeologists to provide robust, contextually informed chronological frameworks.\nWhether you require strategic guidance during project design or expert analysis of complex scientific dating results, we deliver tailored support grounded in current best practice and the latest scientific developments.\nAt Chronologies, we are committed to enhancing the reliability and interpretive power of archaeological chronologies. Let our expertise guide your next project with confidence and precision."
+    "text": "Chronologies is a trusted provider of independent, expert advice on scientific dating for archaeological & heritage research. We work closely with academic institutions, heritage professionals, and commercial archaeologists to provide robust, contextually informed chronological frameworks.\nWhether you require strategic guidance during project design or expert analysis of complex scientific dating results, we deliver tailored support grounded in current best practice and the latest scientific developments.\nAt Chronologies, we are committed to enhancing the reliability and interpretive power of archaeological chronologies. Let our expertise guide your next project with confidence and precision."
   },
   {
     "objectID": "index.html#education",
@@ -2914,7 +2914,7 @@
   {
     "objectID": "research/index.html",
     "href": "research/index.html",
-    "title": "Home",
+    "title": "Research",
     "section": "",
     "text": "How to use\nThe map provides a spatial overview of some of the sites sites & projects we have been fortunate to have worked on.\n\nBasic Navigation: Use the + and - buttons (top left) to zoom in and out of the map Click and drag to pan around different geographic areas\nFinding Sites: Markers indicate sites or project we have been involved with. Click on any marker for links to further information"
   },
@@ -2952,7 +2952,7 @@
     "href": "guidance/index.html",
     "title": "Guidance documents",
     "section": "",
-    "text": "Radiocarbon dating & Chronological modelling\n\n\nThis document provides guidelines for good practice in the use of radiocarbon dating and chronological modelling in archaeology.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nScience and the Dead: Destructive sampling of archaeological human remains for scientific analysis\n\n\nThis document provides guidance for organisations on evaluating requests to conduct destructive scientific analysis on archaeological human remains.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nScientific Dating of Pleistocene Sites:\n\n\nThese guidelines provide advice on best practice for the use of scientific dating on Pleistocene sites. They are applicable to all archaeological projects but are aimed…\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Radiocarbon dating & Chronological modelling\n\n\nThis document provides guidelines for good practice in the use of radiocarbon dating and chronological modelling in archaeology.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nRadiocarbon dating of lipids preserved in pottery vessels: guidelines for best-practice in compound-specific 14C analyses\n\n\nAccurate radiocarbon dating of archaeological pottery vessels by isolating reliable sources of carbon relating to the use of pots has long been a major challenge, but is now…\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nScience and the Dead: Destructive sampling of archaeological human remains for scientific analysis\n\n\nThis document provides guidance for organisations on evaluating requests to conduct destructive scientific analysis on archaeological human remains.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nScientific Dating of Pleistocene Sites:\n\n\nThese guidelines provide advice on best practice for the use of scientific dating on Pleistocene sites. They are applicable to all archaeological projects but are aimed…\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "guidance/radiocarbon/index.html",
@@ -3013,9 +3013,9 @@
   {
     "objectID": "research/MapTest_Static.html",
     "href": "research/MapTest_Static.html",
-    "title": "Chronologies Research Map",
+    "title": "Chronologies Research",
     "section": "",
-    "text": "How to use\nThe map provides a spatial overview of some of the sites & projects we have been fortunate to have worked on.\n\nBasic Navigation: Use the + and - buttons (top left) to zoom in and out of the map Click and drag to pan around different geographic areas\nFinding Sites: Markers indicate sites or project we have been involved with. Click on any marker for links to further information"
+    "text": "The map below contains links to all our research.\n\n\n\n\n\n\n\nHow to use\nThe map provides a spatial overview of some of the sites & projects we have been fortunate to have worked on.\n\nBasic Navigation: Use the + and - buttons (top left) to zoom in and out of the map Click and drag to pan around different geographic areas\nFinding Sites: Markers indicate sites or project we have been involved with. Click on any marker for links to further information\nUsing the Archaeological Period Filters: The checkboxes on the right side of the map allow you to filter research sites and projects by archaeological period.\nHow to Filter by Period: Select periods of interest: Click the checkboxes next to the archaeological periods you wish to view. Multiple periods can be selected simultaneously to compare sites across different time periods.\nView results: Sites and projects dating to your selected periods will remain visible on the map, while others will be hidden.\nClear filters: Uncheck boxes to remove periods from your view, or uncheck all boxes to return to the full dataset view."
   },
   {
     "objectID": "blog/isbister/index.html",
@@ -3037,5 +3037,19 @@
     "title": "Contact",
     "section": "",
     "text": "Chronologies was founded to meet the growing need for independent, informed advice on scientific dating. With over 25 years of experience in the field, we bring deep expertise in the application, interpretation, and integration of scientific dating methods across a wide range of archaeological contexts."
+  },
+  {
+    "objectID": "about2.html",
+    "href": "about2.html",
+    "title": "About us",
+    "section": "",
+    "text": "Chronologies was founded to meet the growing need for independent, informed advice on scientific dating. With over 50 years of experience in the field, we bring deep expertise in the application, interpretation, and integration of scientific dating methods across a wide range of archaeological contexts.\n\n\n\n\n\n\n\nAlex Bayliss PhD, BA (Hons)\n\nHonorary Professor (University of Bristol)\nFellow of the Society of Antiquaries of London\nFellow of the Royal Statistical Society\nalex.chronologies@proton.me\n07852 488 053\nResearchGate\nGoogle Scholar"
+  },
+  {
+    "objectID": "guidance/lipids/index.html",
+    "href": "guidance/lipids/index.html",
+    "title": "Radiocarbon dating of lipids preserved in pottery vessels: guidelines for best-practice in compound-specific 14C analyses",
+    "section": "",
+    "text": "Casanova E, Knowles TDJ, Bayliss A, & Evershed RP. 2024. Radiocarbon dating of lipids preserved in pottery vessels: guidelines for best-practice in compound-specific 14C analyses. Radiocarbon. doi:10.1017/RDC.2024.61"
   }
 ]

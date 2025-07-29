@@ -1,0 +1,19 @@
+---
+title: "Radiocarbon dating of lipids preserved in pottery vessels: guidelines for best-practice in compound-specific ^14^C analyses"
+description: "Accurate radiocarbon dating of archaeological pottery vessels by isolating reliable sources of carbon relating to the use of pots has long been a major challenge, but is now possible using compound-specific radiocarbon analysis of absorbed organic residues preserved in the ceramic fabric of the vessel wall. These guidelines describe best-practice in compound-specific ^14^C analyses"
+image: /images/pottery.jpg
+---
+
+:::::: columns
+::: {.column width="35%"}
+![](lipids.png)
+:::
+
+::: {.column width="10%"}
+<!-- empty column to create gap -->
+:::
+
+::: {.column width="55%"}
+Casanova E, Knowles TDJ, **Bayliss A,** & Evershed RP. 2024. Radiocarbon dating of lipids preserved in pottery vessels: guidelines for best-practice in compound-specific ^14^C analyses. *Radiocarbon*. [doi:10.1017/RDC.2024.61](https://doi.org/10.1017/RDC.2024.61)
+:::
+::::::

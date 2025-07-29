@@ -1,0 +1,29 @@
+---
+title: About us
+---
+
+Chronologies was founded to meet the growing need for independent, informed advice on scientific dating. With over 50 years of experience in the field, we bring deep expertise in the application, interpretation, and integration of scientific dating methods across a wide range of archaeological contexts.
+
+:::::: {.columns style="align-items: center;"}
+::: {.column width="35%"}
+![](/images/alex.jpg)
+:::
+
+::: {.column width="10%"}
+<!-- empty column to create gap -->
+:::
+
+::: {.column width="55%"}
+::: {.compact-text}
+**Alex Bayliss** PhD, BA (Hons)
+
+- Honorary Professor ([University of Bristol](https://www.bristol.ac.uk/people/person/Alex-Bayliss-845de67f-b531-4749-92d5-da9cdff98c3a/))
+- Fellow of the Society of Antiquaries of London
+- Fellow of the Royal Statistical Society
+
+- alex.chronologies@proton.me
+- 07852 488 053
+- [ResearchGate](https://www.researchgate.net/profile/Alex-Bayliss)
+- [Google Scholar](https://scholar.google.com/citations?hl=en&user=nVekaA8AAAAJ)
+:::
+::::::

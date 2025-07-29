@@ -11,7 +11,7 @@ about: # https://quarto.org/docs/websites/website-about.html
       href: https://github.com/PeterDMarshall01
 
 ---
-With over 25 years of experience, Chronologies is a trusted provider of independent, expert advice on scientific dating for archaeological & heritage research. We work closely with academic institutions, heritage professionals, and commercial archaeologists to provide robust, contextually informed chronological frameworks.
+Chronologies is a trusted provider of independent, expert advice on scientific dating for archaeological & heritage research. We work closely with academic institutions, heritage professionals, and commercial archaeologists to provide robust, contextually informed chronological frameworks.
 
 Whether you require strategic guidance during project design or expert analysis of complex scientific dating results, we deliver tailored support grounded in current best practice and the latest scientific developments.
 
