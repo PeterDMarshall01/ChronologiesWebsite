@@ -1,0 +1,22 @@
+---
+title: "St Michael’s Church, Workington, Cumbria Radiocarbon Dating and Chronological Modelling"
+description: "This report contains details of the radiocarbon and stable isotope measurements obtained from samples of human bone from St Michael’s Church, Workington. Details of the assessment of collagen preservation are provided, and the chronological model previously published has been re-run using the currently internationally accepted radiocarbon calibration curve for the northern hemisphere (IntCal20). The posssibility of diet-induced radiocarbon offset in the human skeletons for the site is considered. This provides a framework for the burial activity at the site that is very similar to that previously published."
+image: summary.png
+---
+
+
+::: {.columns}
+::: {.column width="35%"}
+![](diet.png) 
+:::
+
+::: {.column width="10%"}
+<!-- empty column to create gap -->
+:::
+
+::: {.column width="55%"}
+**Marshall, P,** Bronk Ramsey, C, Dunbar, E, & Zant, J, 2025. *St Michael’s Church, Workington, Cumbria: Radiocarbon dating and chronological modelling*, HE Res Rep Ser, 07/2025. 
+  
+[availabe here](https://historicengland.org.uk/research/results/reports/7-2025)
+:::
+:::

@@ -14,8 +14,12 @@ website:
         text: Research
       - href: guidance/index.qmd
         text: Guidance
+      - href: news/index.qmd
+        text: News
       - href: about2.qmd
         text: About us
+      - href: site-map.qmd
+        text: Map
     
   
 

@@ -15,7 +15,7 @@ image: IMG_7432.jpg
 :::
 
 ::: {.column width="55%"}
-Bayliss, A, and **Marshall, P**, 2022 Radiocarbon Dating and Chronological Modelling: Guidelines and Best Practice (Historic England, London). 
+**Bayliss, A, and Marshall, P**, 2022 Radiocarbon Dating and Chronological Modelling: Guidelines and Best Practice (Historic England, London). 
   
 [availabe here](https://historicengland.org.uk/images-books/publications/radiocarbon-dating-chronological-modelling)
 :::

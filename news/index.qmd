@@ -1,0 +1,7 @@
+---
+title: News from Chronologies
+listing: 
+  id: news
+  type: table
+page-layout: full
+---

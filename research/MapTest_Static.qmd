@@ -14,7 +14,7 @@ library(leaflet.extras)
 library(RColorBrewer)
 
 # Read the CSV file
-sites <- read.csv("sites.csv", stringsAsFactors = FALSE)
+sites <- read.csv("sites2.csv", stringsAsFactors = FALSE)
 
 # Create color palette for periods
 unique_periods <- unique(sites$period)

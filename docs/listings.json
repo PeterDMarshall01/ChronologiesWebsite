@@ -42,5 +42,11 @@
       "/guidance/science-dead/index.html",
       "/guidance/pleistocene/index.html"
     ]
+  },
+  {
+    "listing": "/news/index.html",
+    "items": [
+      "/news/workington/index.html"
+    ]
   }
 ]
