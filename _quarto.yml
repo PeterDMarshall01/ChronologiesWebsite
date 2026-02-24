@@ -18,8 +18,8 @@ website:
         text: News
       - href: about2.qmd
         text: About us
-      - href: site-map.qmd
-        text: Map
+      - href: project_radiocarbon.qmd
+        text: Project Radiocarbon
     
   
 

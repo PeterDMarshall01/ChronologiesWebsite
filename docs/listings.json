@@ -1,5 +1,11 @@
 [
   {
+    "listing": "/news/index.html",
+    "items": [
+      "/news/workington/index.html"
+    ]
+  },
+  {
     "listing": "/blog/index.html",
     "items": [
       "/blog/isbister/index.html",
@@ -7,27 +13,6 @@
       "/blog/stonehenge/index.html",
       "/blog/woodhenge/index.html",
       "/blog/lismullin/index.html"
-    ]
-  },
-  {
-    "listing": "/publications/index.html",
-    "items": []
-  },
-  {
-    "listing": "/projects/index.html",
-    "items": []
-  },
-  {
-    "listing": "/PUBS.html",
-    "items": [
-      "/blog/index.html",
-      "/blog/first-post/index.html",
-      "/index.html",
-      "/projects/index.html",
-      "/projects.html",
-      "/publications/publications.html",
-      "/blog/second-post/index.html",
-      "/blog/third-post/index.html"
     ]
   },
   {
@@ -44,9 +29,7 @@
     ]
   },
   {
-    "listing": "/news/index.html",
-    "items": [
-      "/news/workington/index.html"
-    ]
+    "listing": "/projects/index.html",
+    "items": []
   }
 ]

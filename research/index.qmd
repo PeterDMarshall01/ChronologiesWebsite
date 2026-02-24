@@ -11,10 +11,11 @@ suppressPackageStartupMessages({
   library(leaflet)
   library(readr)
   library(dplyr)
+  library(here)
 })
 
 # Read the CSV file
-sites <- read_csv("sites.csv", show_col_types = FALSE)
+sites <- read_csv(here("sites.csv"))
 
 # Prepare popup content
 sites <- sites %>%
